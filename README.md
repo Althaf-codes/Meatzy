@@ -45,4 +45,4 @@ Meatzy is a comprehensive meat and livestock buying platform developed using Flu
 
 
 ## Created Date
-This project was created on September 13, 2022 during college day's startup aura.
+This project was created on June 6, 2022 during college day's startup aura.
