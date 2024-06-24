@@ -35,11 +35,11 @@ Meatzy is a comprehensive meat and livestock buying platform developed using Flu
 
 ## Screenshots
 
-<img src ="screenshot/meatzy_1.png" width="400px">
-<img src ="screenshot/meatzy_2.png" width="400px">
-<img src ="screenshot/meatzy_3.png" width="400px">
-<img src ="screenshot/meatzy_4.png" width="400px">
-<img src ="screenshot/meatzy_5.png" width="400px">
+<img src ="screenshots/meatzy_1.png" width="400px">
+<img src ="screenshots/meatzy_2.png" width="400px">
+<img src ="screenshots/meatzy_3.png" width="400px">
+<img src ="screenshots/meatzy_4.png" width="400px">
+<img src ="screenshots/meatzy_5.png" width="400px">
 
 
 
