@@ -1,16 +1,48 @@
-# meatzy_app
+# Meatzy
 
-A new Flutter project.
+## Description
+Meatzy is a comprehensive meat and livestock buying platform developed using Flutter and Firebase. It provides users with a seamless shopping experience for meat and livestock products. The app includes features such as push notifications, Google Sign-In, Phone Sign-In powered by Firebase Auth, cart management, order tracking, and more.
 
-## Getting Started
+## Features
+- Browse and purchase a wide variety of meat and livestock products.
+- User authentication with Firebase Auth (Google Sign-In, Phone Sign-In).
+- Push notifications to keep users updated on their orders.
+- Add products to cart and manage cart items.
+- View order history and track order status.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase (Firestore, Authentication, Cloud Messaging)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Althaf-codes/meatzy.git
+   cd meatzy
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install Flutter dependencies:
+   ```sh
+   flutter pub get
+
+3. Set up Firebase:
+   Follow the instructions from Firebase docs to add Firebase to your Flutter app:
+
+4. Run the app:
+   ```sh
+   flutter run
+
+## Screenshots
+
+<img src ="screenshot/meatzy_1.png" width="400px">
+<img src ="screenshot/meatzy_2.png" width="400px">
+<img src ="screenshot/meatzy_3.png" width="400px">
+<img src ="screenshot/meatzy_4.png" width="400px">
+<img src ="screenshot/meatzy_5.png" width="400px">
+
+
+
+
+## Created Date
+This project was created on September 13, 2022 during college day's startup aura.
