@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "371640542440",
+    "project_id": "meatzy-9f511",
+    "storage_bucket": "meatzy-9f511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371640542440:android:a271d70ae9ccce4aa8155d",
+        "android_client_info": {
+          "package_name": "com.example.meatzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371640542440-t77479ebaogo1a75p2p9j3v22i13tda4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meatzy",
+            "certificate_hash": "8eb34471133e141a2cd34dc495e30c65afdac3d7"
+          }
+        },
+        {
+          "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoMKZ4Ay3PNKliiKlAEo5sRzOVjpGBY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371640542440-g075sto0st5u5lcbm80ck03mr0g0u5nb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meatzyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371640542440:android:aa18d0d19e3a6bf0a8155d",
+        "android_client_info": {
+          "package_name": "com.example.meatzy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoMKZ4Ay3PNKliiKlAEo5sRzOVjpGBY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371640542440-g075sto0st5u5lcbm80ck03mr0g0u5nb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meatzyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
